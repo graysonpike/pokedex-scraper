@@ -1,5 +1,7 @@
 {
 	"name": "",
+	"number": 100,
+	"nat_num": 100,
 	"types": ["", ""],
 	"abilities": ["", ""],
 	"stats": {
