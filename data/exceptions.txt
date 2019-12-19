@@ -1,0 +1,45 @@
+Pokemon with Forms:
+#26 Unfezant
+#116 Combee
+#129 Cherrim
+#155 Wishiwashi
+#182 Meowth
+#186 Alcremie?
+#209 Meowstic
+#230 Shellos 
+#231 Gastrodon
+#301 Mimikyu
+#305 Frillish
+#306 Jellicent
+#311 Toxtricity
+#332 Aegislash
+#335 Sinistea (Careful, its not really noticeable for 335/336)
+#336 Polteageist
+#337 Indeedee
+#344 Morpeko
+#365 Mr. Mime
+#368 Darmanitan
+#370 Eiscue
+#372 Rotom
+#381/382 not sure if it hhass different forms
+#398 Zacian
+#399 Zamazenta
+#400 Eternatus
+
+GMAX
+Charizard
+Butterfree
+Pikachu
+Meowth
+Machamp
+Kingler
+Eevee
+Garbador
+Corviknight
+Alcremie
+Drednaw
+Hhatterene
+Coalossal
+Grimmsnarl
+Centiskorch
+Applin/Appletun/Flapple
