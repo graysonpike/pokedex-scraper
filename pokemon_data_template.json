@@ -1,10 +1,11 @@
 {
 	"name": "",
-	"number": 100,
+	"gal_num": 100,
 	"nat_num": 100,
 	"types": ["", ""],
 	"abilities": ["", ""],
 	"stats": {
+		"tot": 100,
 		"hp": 100,
 		"def": 100,
 		"atk": 100,
@@ -12,9 +13,21 @@
 		"spd": 100,
 		"spe": 100 
 	},
-	"moves": [
-		{"name": "", "type": "", "status": ""},
+	"lvl_moves": [
+		{"lvl": "", "name": "", "type": "", "status": "", "pow": 100, "acc": 100, "pp": 100, "effect%": 100, "desc": ""},
 	],
-	"family": [""]
+	"tm_moves": [
+		{"#": "", "name": "", "type": "", "status": "", "pow": 100, "acc": 100, "pp": 100, "effect%": 100, "desc": ""},
+	],
+	"tr_moves": [
+		{"#": "", "name": "", "type": "", "status": "", "pow": 100, "acc": 100, "pp": 100, "effect%": 100, "desc": ""},
+	],
+	"egg_moves": [
+		{"name": "", "type": "", "status": "", "pow": 100, "acc": 100, "pp": 100, "effect%": 100, "desc": ""},
+	],
+	"tut_moves": [
+		{"name": "", "type": "", "status": "", "pow": 100, "acc": 100, "pp": 100, "effect%": 100, "desc": ""},
+	],
+	"family": [""],
 	
 }

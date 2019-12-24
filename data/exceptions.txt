@@ -18,6 +18,7 @@ Pokemon with Forms:
 #337 Indeedee
 #344 Morpeko
 #365 Mr. Mime
+#367 Darumaka
 #368 Darmanitan
 #370 Eiscue
 #372 Rotom
