@@ -33,10 +33,14 @@ def scrape_page(url):
 	for a in dextables[2].find_all("tr")[0].text.split(":")[1].split(")")[0].split("-"):
 		abilities.append(a.replace(" ", "").replace("(", "|").strip())
 	pokemon_data["abilities"] = abilities 
-	hastutmoves = "false"
-	if(typelist.contains["dragon"] || typelist.contains["steel"] || pokemon_data["gal_num"] < 9 || (pokemon_data["gal_num"] < 380 && pokemon_data["gal_num"] >= 377)):
-		hastutmoves = "true"
-	stat_area = dextables[13].find_all("tr")[2].find_all("td")
+	# hastutmoves = "false"
+	# if(typelist.contains["dragon"] || typelist.contains["steel"] || pokemon_data["gal_num"] < 9 || (pokemon_data["gal_num"] < 380 && pokemon_data["gal_num"] >= 377)):
+	# 	hastutmoves = "true"
+	last_div = None
+	for last_div in dextables:pass
+	if last_div:
+   		stat_area = last_div.find_all("tr")[2].find_all("td")
+	#stat_area = dextables[dextables.length()-1].find_all("tr")[2].find_all("td")
 	stats = {
 		"tot": 100,
 		"hp": 100,
@@ -65,7 +69,7 @@ def scrape_page(url):
 def main():
 
 	links = get_poke_url()
-	scrape_page(links[394])
+	scrape_page(links[0])
 
 
 main()
