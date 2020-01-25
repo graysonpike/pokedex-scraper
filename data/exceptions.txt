@@ -44,3 +44,15 @@ Coalossal
 Grimmsnarl
 Centiskorch
 Applin/Appletun/Flapple
+
+Branched Evolutions: 
+#56 Gloom -> #57 Vileplume/ #58 Bellossom
+#79 Snorunt -> #80 Glalie / #81 Froslass
+#104 Nincada -> #105 Ninjask / #106 Shedinja
+#107 Tyrogue -> #108 Hitmonlee / #109 Hitmonchan / #110 Hitmontop
+#121 Kirlia -> #122 Gardevoir / #123 Gallade
+#196 Eevee -> #197 Vaporeon / #198 Jolteon / #199 Flareon / #200 Espeon / #201 Umbreon / #202 Leafeon / 
+#203 Glaceon / #204 Sylveon
+#205 Applin -> #206 Flapple / #207 Appletun
+#208 Espurr -> #209 2 forms of Meostic
+#364 Mime Jr. -> #365 2 forms of Mr. Mime
